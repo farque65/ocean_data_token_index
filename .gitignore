@@ -1,0 +1,16 @@
+node_modules
+out
+.DS_Store
+.idea
+.env
+coverage
+dist
+public
+.cache
+storybook-static
+public/storybook
+.artifacts
+.vercel
+repo-metadata.json
+content/networks-metadata.json
+src/@types/apollo
